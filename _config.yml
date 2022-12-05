@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Joseph Lawrence
+title: CLASSICBRI
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Joseph is a super minimal content focus theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -9,8 +9,8 @@ url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your
 #-------------------------------
 # Author Settings
 author:
-  name: Joseph Lawrence
-  bio: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+  name: Brian Carroll
+  bio: Art Director. Cartoonist. Motion Graphics Animator. I have a lot of thoughts about movies and civics.
   avatar: '/images/01.jpg'
 
 social:
