@@ -24,11 +24,9 @@ $base-line-height: 1.5;
 
 // Headings
 $heading-font-weight: 400;
-$heading-font-family: 'New Money', Helvetica Neue, Helvetica, Arial, sans-serif;
-$heading-src: url('NewMoney-Regular.woff2') format('woff2'),
-        url('NewMoney-Regular.woff') format('woff'),
-        url('NewMoney-Regular.ttf') format('truetype'),
-        url('NewMoney-Regular.otf') format('opentype');
+$heading-font-family: 'new_moneyregular', Helvetica Neue, Helvetica, Arial, sans-serif;
+$heading-src: url('newmoney-regular-webfont.woff2') format('woff2'),
+         url('newmoney-regular-webfont.woff') format('woff');
 
 $font-size-h1:  30px;
 $font-size-h2:  28px;
