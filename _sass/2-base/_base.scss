@@ -32,18 +32,18 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $heading-font-family;
+  // font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   line-height: $heading-line-height;
   color: var(--heading-font-color);
-  @font-face {
+ // @font-face {
     font-family: 'new_moneyregular';
     src: url('newmoney-regular-webfont.woff2') format('woff2'),
          url('newmoney-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
-}
+// }
 }
 
 h1 {
