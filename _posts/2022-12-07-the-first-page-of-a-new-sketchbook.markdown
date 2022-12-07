@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  That which does not kill us makes us stronger
+title:  The first page of a new sketchbook
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull...
-date:   2022-12-05 02:05:35 +0300
-image:  '/images/02.jpg'
-tags:   [movies, civics, design]
+date:   2022-12-07 02:17:35 +0800
+image:  // '/images/02.jpg'
+tags:   []
 ---
-Put the post here
+Don't draw on it. It'll smudge the art.
