@@ -1,39 +1,28 @@
 ---
 layout: page
-title: About
+title: What's this now?
 permalink: /about/
 image: '/images/01-1.jpg'
 ---
 
-Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
+> Brian Carroll is a scoundrel. His paper should be run out of town. A committee should be formed to boycott him. You may, if you can form such a committee, put me down for a contribution of one thousand dollars.
 
-***
+I'm an art director living and working in the Los Angeles area with my wife and two cats.
 
-![Workflow]({{site.baseurl}}/images/09-1.jpg)
-*Photo by [Daniel Romero](https://unsplash.com/@rmrdnl) on Unsplash*
+I'm an illustrator and webcartoonist, starting in 2002, and known to some as the author of Instant Classic (launched 2003), Genrezvous Point (2004), and Two Party Opera (2016).
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
+I'm also a filmmaker and a theatre-kid. My wife, Stephanie, and I cohosted a monthly play-reading circle focusing mostly on plays written before the mid-19th century, performed by actor and non-actor friends, alike.
 
-***
+Career-wise, if I made one of those cool grids of client logos that I've designed for, it would include Disney, Apple, Lucasfilm, Adobe, CNN, Microsoft, Steelcase, Bacardi, and many others. That's pretty neat.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/09-2.jpg">
-    <img src="/images/09-3.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+I fail at NaNoWriMo every year. Someday I'll finish one.
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
+I only played trumpet for about 3 years in my early teens but I still tell everyone I can play the trumpet.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+During the pandemic, I discovered a love for printmaking out of my interest in typography. I'm still learning, but I'm having a blast.
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te rephenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates.
+I try to be as civic-minded as I can, serving on the Studio City Neighborhood Council for 3 years (2018-2021), including one year as its President. I ran for the House of Representatives in 2020 and got 3.5% in a crowded primary. 5984 votes and I love every one of them.
 
-***
+I was kicked out of Rochester Institutive of Technology in 2007 (it's a story that's way more interesting to me than it would be to anyone else), but re-enrolled 12 years later and now it's fun to say that I'm an RIT alumni, class of 2019.
 
-<p><iframe src="https://player.vimeo.com/video/107654760" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-***
-
-An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi sapiente potest. Tecum optime, deinde etiam cum.
+I'll add more as they come to me.
